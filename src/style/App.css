@@ -110,7 +110,7 @@ body {
   flex-direction: column;
   justify-content: center;
   text-align: center;
-  margin-top: -200px;
+  margin-top: 0px;
   transition: all 1s ease;
 }
 .section-checked img {
